@@ -1,0 +1,1 @@
+# Idk Theme for Zed
